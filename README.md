@@ -1,29 +1,15 @@
-# crypto-app
+# Small application about popular cryptocurrencies: [CryptoApp](http://crypto-app-test-task.herokuapp.com)
 
-## Project setup
-```
-npm install
-```
+##### Used technologies:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+  - Vue
+  - Axios
+  - Vue Material
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### See the working application on Heroku [CryptoApp](http://crypto-app-test-task.herokuapp.com)
 
-### Run your tests
-```
-npm run test
-```
+##### Todos
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Improve this project
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Enjoy! :relieved:
